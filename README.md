@@ -1,7 +1,5 @@
 # Function-Space-MCMC-for-Wide-BNNs
 
-This is the code for the paper "Function-Space MCMC for Wide Bayesian Neural Networks". 
-
 The code has been re-adapted by [github.com/google/wide_bnn_sampling]/(https://github.com/google/wide_bnn_sampling).
 
 The contributions to the code regards the addition of the preconditioned Crank-Nicholson (pCN) and preconditioned Crank-Nicholson Langevin (pCNL) samplers, see `samplers.py` for the implementation.
